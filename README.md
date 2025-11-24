@@ -194,5 +194,6 @@ Overall, the fuzzy controller behaves as expected: it strongly prioritizes safet
    ```powershell
    py -m pip install numpy scipy scikit-fuzzy networkx
 
-   Run the application:
+ 4. Run the application:
+    
      py main.py
